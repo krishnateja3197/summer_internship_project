@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26e7c4a7.css",
+    "main.js": "/static/js/main.3f267e45.js",
+    "static/media/image10.jpg": "/static/media/image10.55158797b03857c694df.jpg",
+    "static/media/image11.jpg": "/static/media/image11.38c3f298b6bb6d558288.jpg",
+    "static/media/1.jpg": "/static/media/1.8653ff4cc0d34673a587.jpg",
+    "static/media/image9.jpg": "/static/media/image9.3a1dae49f72f037d1c95.jpg",
+    "static/media/2.jpg": "/static/media/2.c6e12ce1414b97086ea8.jpg",
+    "static/media/image3.jpg": "/static/media/image3.e483bf451e7760642d13.jpg",
+    "static/media/image7.jpg": "/static/media/image7.9cb1c37a36f7e3ccb0e8.jpg",
+    "static/media/image4.jpg": "/static/media/image4.bb32e143e80b27107201.jpg",
+    "static/media/image8.jpg": "/static/media/image8.2acbc99ef3e7115fa42a.jpg",
+    "static/media/image2.jpg": "/static/media/image2.07c44fad34161dba5dfa.jpg",
+    "static/media/image5.jpg": "/static/media/image5.e1d0935822fb46c8e407.jpg",
+    "static/media/image1.jpg": "/static/media/image1.06a28a03bd075c90d90f.jpg",
+    "static/media/image6.jpg": "/static/media/image6.0cfeffb57dc69df01760.jpg",
+    "static/media/3.jpg": "/static/media/3.43a2cd4f61e12178c255.jpg",
+    "static/media/farmer.png": "/static/media/farmer.be7a269760a9424e129e.png",
+    "index.html": "/index.html",
+    "main.26e7c4a7.css.map": "/static/css/main.26e7c4a7.css.map",
+    "main.3f267e45.js.map": "/static/js/main.3f267e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26e7c4a7.css",
+    "static/js/main.3f267e45.js"
+  ]
+}

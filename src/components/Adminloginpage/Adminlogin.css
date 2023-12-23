@@ -1,0 +1,22 @@
+.adminloginbody 
+{
+     
+    background-image: url('https://images.pexels.com/photos/2042161/pexels-photo-2042161.jpeg?cs=srgb&dl=pexels-brandon-randolph-2042161.jpg&fm=jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: mt-4;
+    width:100%;
+    height:780px;
+}
+.admincontainer 
+{
+    width: 400px;
+    height: 500px;
+    padding-top: 50px;
+    margin-top: 100px;
+    margin: auto;
+}
+.adminloginheading 
+{
+    margin-top: 100px;
+}
