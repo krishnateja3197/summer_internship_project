@@ -1,0 +1,29 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: black;
+  height: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 1000; /* Adjust z-index as needed */
+}
+  .nav-item {
+    list-style-type: none;
+    margin-left: 30px;
+    font-size: 25px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: white !important; 
+  }
+  .farmerlogo 
+  {
+    height: 30px;
+    width: 30px;
+    margin-left: 400px;
+  }
+  
+
+  
