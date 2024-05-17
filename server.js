@@ -35,7 +35,7 @@ const pagerefresh = (request, response, next) => {
   
 
 //connect to a database server 
-mclient.connect("mongodb://localhost:27017")
+mclient.connect("mongodb localhost url") // enter your database url here
 .then((dbref)=>
 {
     //connect to a databse 
